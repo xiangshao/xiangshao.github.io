@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am Assistant Professor @ Department of Applied Economics, School of Management, Fudan University. [academicpages template](https://github.com/academicpages/academicpages.github.io) 
+I am Assistant Professor @ Department of Applied Economics, School of Management, Fudan University. [School Webiste](https://www.fdsm.fudan.edu.cn/en/teacher/preview.aspx?UID=158258) 
