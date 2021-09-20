@@ -20,7 +20,7 @@ Professional Experience
 * 2012-2013: Research Associate
   * Faculty of Business and Economics, The University of Hong Kong
 * 2020： Visiting Fellow
-  * Sloan School of Management, MIT (host: Joseph Doyle)
+  * Sloan School of Management, MIT (host: Prof.Joseph Doyle)
 * 2017-: Assistant Professor
   * School of Management, Fudan University
 
