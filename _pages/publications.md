@@ -6,9 +6,9 @@ author_profile: true
 ---
    The Risk of Implicit Guarantees: Evidence from Shadow Banks in China **R&R at the Review of Finance** (Ji Huang & Zongbo Huang)
    
-   How Local Leaders Matter: Inter-Provincial Leadership Transfers and Land Transactions in China. **Journal of Comparative Economics**. Forthcoming. (with Yue Li, Zhigang Tao & Hongjie Yuan)
+   How Local Leaders Matter: Inter-Provincial Leadership Transfers and Land Transactions in China. **Journal of Comparative Economics**. 2021. (with Yue Li, Zhigang Tao & Hongjie Yuan)
 
-   Globalization and U.S. Corporate Tax Policies: Evidence from Import Competition. **Management Science**. Forthcoming. (with Tao Chen & Chen Lin)
+   Globalization and U.S. Corporate Tax Policies: Evidence from Import Competition. **Management Science**. 2021. (with Tao Chen & Chen Lin)
 
   Financial conditions, health care provision, and patient outcomes: Evidence from Chinese public hospitals. **Economics Letters** 2020 (with Mengna Luan & Fengman Dou)
 
