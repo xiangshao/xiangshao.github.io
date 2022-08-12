@@ -24,6 +24,9 @@ Professional Experience
 * 2017-2021: Assistant Professor
 * 2022-    ：Associate Professor
   * School of Management, Fudan University
-
+  
+Referee Service
+======
+Journal of Banking and Finance, Journal of Comparative Economics, Management Science, China & World Economy...
 
   
