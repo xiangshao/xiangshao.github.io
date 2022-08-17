@@ -28,6 +28,6 @@ Professional Experience
   
 Referee Service
 ======
-Journal of Banking and Finance, Journal of Comparative Economics, Management Science, China & World Economy...
+Journal of Banking and Finance, Journal of Comparative Economics, Journal of Economic Behavior and Organization, Management Science,
 
   
