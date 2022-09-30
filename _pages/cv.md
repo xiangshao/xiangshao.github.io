@@ -26,8 +26,11 @@ Professional Experience
   * Faculty of Business and Economics, The University of Hong Kong
 
   
-Referee Service
+Service
 ======
-Journal of Banking and Finance, Journal of Comparative Economics, Journal of Economic Behavior and Organization, Management Science，Production and Operations Managemen
+2022- Associate editor: Journal of Asian Economics
+ 
+ad hoc referee for:
+Journal of Banking and Finance, Journal of Comparative Economics, Journal of Economic Behavior and Organization, Management Science，Production and Operations Management
 
   
