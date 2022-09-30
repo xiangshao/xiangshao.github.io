@@ -4,7 +4,7 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
-   The Risk of Implicit Guarantees: Evidence from Shadow Banks in China **Conditional Accepted at the Review of Finance** (Ji Huang & Zongbo Huang)
+   The Risk of Implicit Guarantees: Evidence from Shadow Banks in China **Review of Finance**. Forthcoming (Ji Huang & Zongbo Huang)
    
    How Local Leaders Matter: Inter-Provincial Leadership Transfers and Land Transactions in China. **Journal of Comparative Economics**. 2022. (with Yue Li, Zhigang Tao & Hongjie Yuan)
 
