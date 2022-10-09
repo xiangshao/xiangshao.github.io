@@ -16,5 +16,4 @@ author_profile: true
 
   Exposure to Chinese imports and media slant: Evidence from 147 U.S. local newspapers over 1998-2012. **Journal of International Economics** 2018  (with Yi Lu & Zhigang Tao)
 
-  Hollowing out of the Real Economy: Evidence from China’s Listed Firms. **Frontiers of Economics in China** 2016 (with Li Xu, Xiang Shao & Zhigang Tao)
-
+ 
