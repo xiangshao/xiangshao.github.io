@@ -9,4 +9,4 @@ author_profile: true
 * Macroeconomics (Graduate) 2018,2019,2021 Spring
 * Microeconomics (Undergraduate) 2018, 2019 Spring
 * Chinese Business Environment and Multinational Strategy(Fudan-LBS GMIM program) 2019-2022 Spring, 2022Fall
-
+* Macroeconomics(Fudan-MIT MBA program)
