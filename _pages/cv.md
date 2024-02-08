@@ -22,8 +22,7 @@ Professional Experience
   * School of Management, Fudan University
 * 2020： International Faculty Fellows
   * Sloan School of Management, MIT (host: Prof.Joseph Doyle)
-* 2012-2013: Research Associate
-  * Faculty of Business and Economics, The University of Hong Kong
+
 
   
 Service
