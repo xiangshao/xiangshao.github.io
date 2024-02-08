@@ -17,7 +17,7 @@ Education
 
 Professional Experience
 ======
-* 2022-    ：Associate Professor
+* 2021-    ：Associate Professor
 * 2017-2021: Assistant Professor
   * School of Management, Fudan University
 * 2020： Visiting Fellow
