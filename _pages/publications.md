@@ -4,7 +4,14 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
-   The Risk of Implicit Guarantees: Evidence from Shadow Banks in China **Review of Finance**. 2023. (Ji Huang & Zongbo Huang)
+# Working Paper
+Strategic Disclosure in R&D Races: Theory and Evidence (with Sang Wu and Yue Zhang) https://papers.ssrn.com/abstract=5895603
+Competitive Pressure and Corporate Steering Strategy (with Chen Lin, Shihua Qin and Jianfei Zhu) https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5065495
+Barbarian or Vanguard? : Private Equity Buyout and Physician Opioid Prescription (with Chen Lin, Shihua Qin and Jianfei Zhu) https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5545040
+Prescription Switching under China's Volume-Based Procurement Program (with Hang Wu, Mengna Luan and Hai Lin) https://papers.ssrn.com/abstract=5330720
+
+# Publication
+   The Risk of Implicit Guarantees: Evidence from Shadow Banks in China **Review of Finance**. 2023. (with Ji Huang & Zongbo Huang)
    
    How Local Leaders Matter: Inter-Provincial Leadership Transfers and Land Transactions in China. **Journal of Comparative Economics**. 2022. (with Yue Li, Zhigang Tao & Hongjie Yuan)
 
