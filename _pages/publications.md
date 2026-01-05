@@ -11,7 +11,7 @@ author_profile: true
 
 [Barbarian or Vanguard? : Private Equity Buyout and Physician Opioid Prescription](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5545040) (with Chen Lin, Shihua Qin and Jianfei Zhu) 
 
-[Prescription Switching under China's Volume-Based Procurement Program] (https://papers.ssrn.com/abstract=5330720) (with Hang Wu, Mengna Luan and Hai Lin) 
+[Prescription Switching under China's Volume-Based Procurement Program](https://papers.ssrn.com/abstract=5330720) (with Hang Wu, Mengna Luan and Hai Lin) 
 
 # Publication
    The Risk of Implicit Guarantees: Evidence from Shadow Banks in China **Review of Finance**. 2023. (with Ji Huang & Zongbo Huang)
