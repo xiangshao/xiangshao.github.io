@@ -6,8 +6,11 @@ author_profile: true
 ---
 # Working Paper
 [Strategic Disclosure in R&D Races: Theory and Evidence](https://papers.ssrn.com/abstract=5895603) (with Sang Wu and Yue Zhang) 
+
 [Competitive Pressure and Corporate Steering Strategy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5065495) (with Chen Lin, Shihua Qin and Jianfei Zhu) 
+
 [Barbarian or Vanguard? : Private Equity Buyout and Physician Opioid Prescription](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5545040) (with Chen Lin, Shihua Qin and Jianfei Zhu) 
+
 [Prescription Switching under China's Volume-Based Procurement Program] (https://papers.ssrn.com/abstract=5330720) (with Hang Wu, Mengna Luan and Hai Lin) 
 
 # Publication
