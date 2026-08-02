@@ -14,6 +14,8 @@ author_profile: true
 [Prescription Switching under China's Volume-Based Procurement Program](https://papers.ssrn.com/abstract=5330720) (with Hang Wu, Mengna Luan and Hai Lin) 
 
 # Publication
+   Bank competition and formation of zombie firms: Evidence from banking deregulation in China. **Journal of Banking & Finance**. 2025. (with Xuchao Li, Guangjun Shen, and Jingxian Zou)
+   
    The Risk of Implicit Guarantees: Evidence from Shadow Banks in China **Review of Finance**. 2023. (with Ji Huang & Zongbo Huang)
    
    How Local Leaders Matter: Inter-Provincial Leadership Transfers and Land Transactions in China. **Journal of Comparative Economics**. 2022. (with Yue Li, Zhigang Tao & Hongjie Yuan)
