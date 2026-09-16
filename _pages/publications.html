@@ -1,0 +1,58 @@
+---
+layout: academic
+title: "Research"
+permalink: /publications/
+---
+<header class="page-heading">
+  <div><p class="eyebrow">Working papers, publications &amp; book chapters</p><h1>Research</h1></div>
+  <a class="heading-note" href="{{ site.author.googlescholar }}">Google Scholar <span aria-hidden="true">↗</span></a>
+</header>
+<div class="content-grid">
+  <nav class="section-nav" aria-label="Research sections">
+    <p class="eyebrow">On this page</p>
+    <a href="#working-papers">Working Papers <span class="nav-count">{{ site.data.research.working.size }}</span></a>
+    <a href="#publications">Publications <span class="nav-count">{{ site.data.research.published.size }}</span></a>
+    <a href="#book-chapters">Book Chapters <span class="nav-count">{{ site.data.research.chapters.size }}</span></a>
+  </nav>
+  <div>
+    <section id="working-papers" class="research-section">
+      <div class="section-title"><h2>Working Papers</h2><span class="count">{{ site.data.research.working.size }}</span></div>
+      <ul class="paper-list">
+        {% for paper in site.data.research.working %}
+        <li class="paper">
+          <h3>{% if paper.url %}<a href="{{ paper.url }}">{{ paper.title | escape }}</a>{% else %}{{ paper.title | escape }}{% endif %}</h3>
+          <p class="paper-authors">with {{ paper.authors | escape }}</p>
+          {% if paper.url %}<a class="paper-link" href="{{ paper.url }}" aria-label="Read {{ paper.title | escape }} on SSRN">SSRN <span aria-hidden="true">↗</span></a>{% endif %}
+          {% if paper.note %}<span class="draft-note">{{ paper.note | escape }}</span>{% endif %}
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
+    <section id="publications" class="research-section">
+      <div class="section-title"><h2>Publications</h2><span class="count">{{ site.data.research.published.size }}</span></div>
+      <ul class="paper-list">
+        {% for paper in site.data.research.published %}
+        <li class="paper">
+          <h3>{{ paper.title | escape }}</h3>
+          <p class="paper-authors">with {{ paper.authors | escape }}</p>
+          <p class="paper-meta"><em>{{ paper.journal | escape }}</em><span class="year">{{ paper.year }}</span></p>
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
+    <section id="book-chapters" class="research-section">
+      <div class="section-title"><h2>Book Chapters</h2><span class="count">{{ site.data.research.chapters.size }}</span></div>
+      <ul class="paper-list">
+        {% for chapter in site.data.research.chapters %}
+        <li class="paper">
+          <h3><a href="{{ chapter.url }}">{{ chapter.title | escape }}</a></h3>
+          <p class="paper-authors">with {{ chapter.authors | escape }}</p>
+          <p class="paper-meta">Chapter {{ chapter.chapter }} in <em>{{ chapter.book | escape }}</em></p>
+          <p class="paper-authors">Edited by {{ chapter.editors | escape }}</p>
+          <a class="paper-link" href="{{ chapter.url }}" aria-label="View the book containing {{ chapter.title | escape }} at World Scientific">Publisher <span aria-hidden="true">↗</span></a>
+        </li>
+        {% endfor %}
+      </ul>
+    </section>
+  </div>
+</div>

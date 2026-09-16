@@ -1,0 +1,83 @@
+{
+  "working": [
+    {
+      "title": "From Tender to Counter: How Public Drug Procurement Reshapes Private Retail Pharmacies",
+      "authors": "Wenzhen Mao and Wenyi Yin",
+      "note": "Draft coming soon"
+    },
+    {
+      "title": "Strategic Disclosure in R&D Races: Theory and Evidence",
+      "authors": "Sang Wu and Yue Zhang",
+      "url": "https://papers.ssrn.com/abstract=5895603"
+    },
+    {
+      "title": "Competitive Pressure and Corporate Steering Strategy",
+      "authors": "Chen Lin, Shihua Qin and Jianfei Zhu",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5065495"
+    },
+    {
+      "title": "Barbarian or Vanguard? : Private Equity Buyout and Physician Opioid Prescription",
+      "authors": "Chen Lin, Shihua Qin and Jianfei Zhu",
+      "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5545040"
+    },
+    {
+      "title": "Prescription Switching under China's Volume-Based Procurement Program",
+      "authors": "Hang Wu, Mengna Luan and Hai Lin",
+      "url": "https://papers.ssrn.com/abstract=5330720"
+    }
+  ],
+  "published": [
+    {
+      "title": "Bank competition and formation of zombie firms: Evidence from banking deregulation in China",
+      "journal": "Journal of Banking & Finance",
+      "year": "2025",
+      "authors": "Xuchao Li, Guangjun Shen, and Jingxian Zou"
+    },
+    {
+      "title": "The Risk of Implicit Guarantees: Evidence from Shadow Banks in China",
+      "journal": "Review of Finance",
+      "year": "2023",
+      "authors": "Ji Huang & Zongbo Huang"
+    },
+    {
+      "title": "How Local Leaders Matter: Inter-Provincial Leadership Transfers and Land Transactions in China",
+      "journal": "Journal of Comparative Economics",
+      "year": "2022",
+      "authors": "Yue Li, Zhigang Tao & Hongjie Yuan"
+    },
+    {
+      "title": "Globalization and U.S. Corporate Tax Policies: Evidence from Import Competition",
+      "journal": "Management Science",
+      "year": "2021",
+      "authors": "Tao Chen & Chen Lin"
+    },
+    {
+      "title": "Financial conditions, health care provision, and patient outcomes: Evidence from Chinese public hospitals",
+      "journal": "Economics Letters",
+      "year": "2020",
+      "authors": "Mengna Luan & Fengman Dou"
+    },
+    {
+      "title": "Sniping in soft-close online auctions: Empirical evidence from overstock",
+      "journal": "Marketing Letters",
+      "year": "2019",
+      "authors": "Wen Cao, Qinyang Sha, Zhiyong Yao & Dingwei Gu"
+    },
+    {
+      "title": "Exposure to Chinese imports and media slant: Evidence from 147 U.S. local newspapers over 1998-2012",
+      "journal": "Journal of International Economics",
+      "year": "2018",
+      "authors": "Yi Lu & Zhigang Tao"
+    }
+  ],
+  "chapters": [
+    {
+      "title": "The China Effect: A Financial Perspective",
+      "chapter": 23,
+      "authors": "Changyuan Luo and Mei Tao",
+      "book": "Demystifying China's Economic Emergence: Origin, Model, and Characteristics — A Festschrift in Honor of Professor Jun Zhang",
+      "editors": "Y Y Kueh, Qu Feng, and Zhao Chen",
+      "url": "https://www.worldscientific.com/worldscibooks/10.1142/14367"
+    }
+  ]
+}

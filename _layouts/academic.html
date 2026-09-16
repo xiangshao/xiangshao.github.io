@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.home %}{{ site.title }}{% else %}{{ page.title }} · {{ site.title }}{% endif %}</title>
+  <meta name="description" content="{{ site.description | escape }}">
+  <meta name="theme-color" content="#f9f8f5">
+  <link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.permalink }}">
+  <meta property="og:title" content="{{ page.title | escape }} · {{ site.title }}">
+  <meta property="og:description" content="{{ site.description | escape }}">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="{{ site.url }}{{ site.baseurl }}{{ page.permalink }}">
+  <link rel="icon" href="{{ site.baseurl }}/assets/images/academic-mark.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/academic.css">
+  <script src="{{ site.baseurl }}/assets/js/academic.js" defer></script>
+</head>
+<body class="{% if page.home %}home-page{% else %}interior-page{% endif %}">
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="site-header">
+    <div class="header-inner wrap">
+      <a class="wordmark" href="{{ site.baseurl }}/" aria-label="Xiang Shao — Home"><span class="wordmark-symbol" aria-hidden="true">xs.</span><span>Xiang Shao</span></a>
+      <nav class="main-nav" aria-label="Main navigation">
+        <a href="{{ site.baseurl }}/"{% if page.home %} aria-current="page"{% endif %}>Home</a>
+        <a href="{{ site.baseurl }}/publications/"{% if page.permalink == '/publications/' %} aria-current="page"{% endif %}>Research</a>
+        <a href="{{ site.baseurl }}/teaching/"{% if page.permalink == '/teaching/' %} aria-current="page"{% endif %}>Teaching</a>
+        <a href="{{ site.baseurl }}/cv/"{% if page.permalink == '/cv/' %} aria-current="page"{% endif %}>CV</a>
+      </nav>
+    </div>
+  </header>
+  <main id="main" class="wrap" tabindex="-1">{{ content }}</main>
+  <footer class="site-footer wrap">
+    <div><span class="footer-name">Xiang Shao <span lang="zh-Hans">邵翔</span></span><span class="footer-affiliation">School of Management, Fudan University</span></div>
+    <div class="footer-contact"><a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a><span>Shanghai, China</span></div>
+  </footer>
+</body>
+</html>

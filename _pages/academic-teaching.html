@@ -1,0 +1,27 @@
+---
+layout: academic
+title: "Teaching"
+permalink: /teaching/
+---
+<header class="page-heading">
+  <div><p class="eyebrow">Courses at Fudan University</p><h1>Teaching</h1></div>
+</header>
+<div class="content-grid">
+  <nav class="section-nav" aria-label="Teaching sections">
+    <p class="eyebrow">Programmes</p>
+    {% for group in site.data.courses %}<a href="#{{ group.id }}">{{ group.short_title | escape }}</a>{% endfor %}
+  </nav>
+  <div>
+    {% for group in site.data.courses %}
+    <section id="{{ group.id }}" class="course-section">
+      <div class="section-title"><h2>{{ group.title | escape }}</h2></div>
+      {% for course in group.courses %}
+      <article class="course">
+        <div><h3>{{ course.title | escape }}</h3>{% if course.programme %}<p>{{ course.programme | escape }}</p>{% endif %}</div>
+        <div class="course-dates">{% for term in course.terms %}<div>{{ term }}</div>{% endfor %}</div>
+      </article>
+      {% endfor %}
+    </section>
+    {% endfor %}
+  </div>
+</div>

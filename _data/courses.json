@@ -1,0 +1,62 @@
+[
+  {
+    "id": "undergraduate",
+    "short_title": "Undergraduate",
+    "title": "Undergraduate",
+    "courses": [
+      {
+        "title": "Principles of Economics",
+        "terms": [
+          "Fall 2022–2024"
+        ]
+      },
+      {
+        "title": "Microeconomics",
+        "terms": [
+          "Spring 2018, 2019"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "graduate",
+    "short_title": "Graduate",
+    "title": "Graduate",
+    "courses": [
+      {
+        "title": "Empirical IO",
+        "terms": [
+          "Fall 2017–2026"
+        ]
+      },
+      {
+        "title": "Macroeconomics",
+        "terms": [
+          "Spring 2018, 2019, 2021"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "international",
+    "short_title": "MBA & International",
+    "title": "MBA & International Programmes",
+    "courses": [
+      {
+        "title": "Macroeconomics",
+        "programme": "Fudan–MIT MBA programme",
+        "terms": [
+          "Spring 2023–2026"
+        ]
+      },
+      {
+        "title": "Chinese Business Environment and Multinational Strategy",
+        "programme": "Fudan–LBS GMIM programme",
+        "terms": [
+          "Spring 2019–2022",
+          "Fall 2022–2023"
+        ]
+      }
+    ]
+  }
+]
