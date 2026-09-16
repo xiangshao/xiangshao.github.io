@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 # Working Paper
+From Tender to Counter: How Public Drug Procurement Reshapes Private Retail Pharmacies (with Wenzhen Mao and Wenyi Yin)
+
 [Strategic Disclosure in R&D Races: Theory and Evidence](https://papers.ssrn.com/abstract=5895603) (with Sang Wu and Yue Zhang) 
 
 [Competitive Pressure and Corporate Steering Strategy](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5065495) (with Chen Lin, Shihua Qin and Jianfei Zhu) 
